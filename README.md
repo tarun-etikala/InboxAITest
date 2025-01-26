@@ -1,0 +1,2 @@
+# InboxAI
+inboxai.tech
