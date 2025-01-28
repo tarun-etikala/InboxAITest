@@ -1,4 +1,4 @@
 wheel
 uwsgi
-Werkzeug==2.2.2
+Werkzeug==3.0.6
 Flask==2.2.3
