@@ -3,7 +3,7 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - feature/initial-frontend # Set this to your default branch
+      - main # Set this to your default branch
 
 jobs:
   deploy:
